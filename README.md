@@ -9,7 +9,7 @@ Inspired by [koa-bunyan](https://github.com/ivpusic/koa-bunyan),
 
 [![Build Status](https://travis-ci.org/koajs/bunyan-logger.svg?branch=master)](https://travis-ci.org/koajs/bunyan-logger)
 [![Coverage Status](https://coveralls.io/repos/koajs/bunyan-logger/badge.png)](https://coveralls.io/r/koajs/bunyan-logger)
-[![npm](http://img.shields.io/npm/v/koa-bunyan-logger.svg)](https://www.npmjs.org/package/koa-bunyan-logger)
+[![npm](http://img.shields.io/npm/v/koa-bunyan-logger.svg)](https://www.npmjs.org/package/koa-bunyan-logger) [![Greenkeeper badge](https://badges.greenkeeper.io/oleg-koval/bunyan-logger.svg)](https://greenkeeper.io/)
 
 A primary goal of this module is to be as flexible as possible, while
 remaining relatively lightweight, leaving advanced functionality and
